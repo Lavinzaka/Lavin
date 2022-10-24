@@ -240,9 +240,9 @@ jiren = `
 亗├ 62XXX ITU PASTE NO KORBAN
 亗├ contoh : bug1 62826578172
 亗├──────────────────┈
-亗├ 「 V2 NEW 」
+亗├ 「 LAVINVIPBOT 」
 亗├──────────────────┈
-亗├ • ${prefix}santetgc (linkgc)
+亗├ • ORDER BISA CHAT ADMIN
 亗├──────────────────┈
 亗├ 「𝙊𝙏𝙃𝙀𝙍」
 亗├──────────────────┈
@@ -253,7 +253,7 @@ jiren = `
 亗├ -UBAH WA JADI BOT 80K
 亗├ -SEWA 35K
 亗├ -JADI MEMBER 15K
-亗├ BISA KUNJUNGI WA wa.me/62831116373508
+亗├ 
 亗├──────────────────┈
 `
 diablobotwhatsapp.reply(jiren)
